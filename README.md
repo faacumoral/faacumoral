@@ -8,7 +8,7 @@
 
 <h3 align="left">My projects:</h3>
 <p align="left">
-<a href="https://digus.azurewebsites.net/" target="blank"><img align="center" src="https://digus.azurewebsites.net/Content/loader.gif" alt="Digus" height="30" width="40" /></a>
+<a href="https://digus.azurewebsites.net/" target="blank"><img align="center" src="https://http2.mlstatic.com/storage/developers-site-cms-admin/261904479863-conoce-los-tiempos-de-costos-icono01.png" height="30" width="40" /></a>
 <a href="https://worter-dictionary.azurewebsites.net/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/8756/8756811.png" alt="Digus" height="30" width="40" /></a>
 </p>
 
