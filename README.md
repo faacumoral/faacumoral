@@ -16,4 +16,15 @@
 <a href="https://digus.azurewebsites.net/" target="blank"><img align="center" src="https://http2.mlstatic.com/storage/developers-site-cms-admin/261904479863-conoce-los-tiempos-de-costos-icono01.png" height="30" width="40" /></a>
 <a href="https://worter-dictionary.azurewebsites.net/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/8756/8756811.png" alt="Digus" height="30" width="40" /></a>
 </p>
+  
+  
+<h3 align="left">Public projects that I worked for</h3>
+<p align="left">
+<a href="https://play.google.com/store/apps/details?id=com.snoopconsulting.viasano" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/D1ABhoG_n_h5d6677c68bz1U-AvCMjfAFVLi56HGbPTuNz0FIUtn6UM5R6qTN1aG=w480-h960-rw" height="30" width="40" /></a>
 
+<a href="https://play.google.com/store/apps/details?id=com.snoopconsulting.sanitas" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/6of29F7h3JwxEUwqbL6bhFS5kF_8sapSitSMD_-_k57yCMVOieqE9crEuX14Vx7uZA=w480-h960-rw" height="30" width="40" /></a>
+  
+  
+</p>
+
+  
